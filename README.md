@@ -6,5 +6,5 @@ Iris segmentation contains the most significant character in the iris recognitio
 
 **Paper LinK:** https://link.springer.com/article/10.1007/s42979-022-01113-0
 
-I would like to thanks @arijit-hub to helping me out for the pytorch implementation and debugging the codes.
+I would like to thanks [Arijit Ghosh](https://github.com/arijit-hub) to helping me out for the pytorch implementation and debugging the codes.
 
